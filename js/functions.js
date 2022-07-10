@@ -1,0 +1,1 @@
+/********* Custom JS functions from EGrappler.com **************/
